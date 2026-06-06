@@ -5,7 +5,8 @@
 通常的 2D 几何变换可以通过一个 2 × 2 的矩阵与 2D 向量相乘来实现
 
 缩放 \(Scaling\)：
-$$
+
+```math
 \begin{pmatrix}
 x' \\
 y'
@@ -19,11 +20,11 @@ S_x&0 \\
 x \\
 y
 \end{pmatrix}
-$$
+```
 
 旋转 \(Rotation\)：绕原点逆时针旋转角度：
 
-$$
+```math
 \begin{pmatrix}
 x' \\
 y'
@@ -37,7 +38,7 @@ sinθ&cosθ
 x \\
 y
 \end{pmatrix}
-$$
+```
 
 ### 2\. 齐次坐标 \(Homogeneous Coordinates\)
 
@@ -112,6 +113,6 @@ $$
 
 点表示为：$`(x,y,z,1)^T`$
 
-向量表示为：$(x,y,z,0)^T$
+向量表示为：$`(x,y,z,0)^T`$
 
 变换类似二维
