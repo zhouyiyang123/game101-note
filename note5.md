@@ -12,7 +12,10 @@
 
 - 视口变换矩阵：将 $[-1, 1]^2$ 转换到 $[0, \text{width}] \times [0, \text{height}]$ 的矩阵：
 
-$$M_{viewport} = \begin{pmatrix} \frac{\text{width}}{2} & 0 & 0 & \frac{\text{width}}{2} \\ 0 & \frac{\text{height}}{2} & 0 & \frac{\text{height}}{2} \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{pmatrix}$$
+$$M_{viewport} = \begin{pmatrix} \frac{\text{width}}{2} & 0 & 0 & \frac{\text{width}}{2} \\
+0 & \frac{\text{height}}{2} & 0 & \frac{\text{height}}{2} \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1 \end{pmatrix}$$
 
 ### 2\. 为什么图形学喜欢用三角形？
 
