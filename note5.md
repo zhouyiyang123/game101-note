@@ -1,4 +1,4 @@
-## __Lecture 05：光栅化（一）—— 三角形__
+## __Lesson 05：光栅化（一）—— 三角形__
 
 ### 1\. 视口变换 \(Viewport Transformation\)
 

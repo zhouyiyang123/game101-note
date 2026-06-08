@@ -4,10 +4,11 @@
 
 ## 目录
 
-- [note1.md](./note1.md) - Lesson 1 引言 / 图形学入门
+- [note1.md](./note1.md) - Lesson 1 引言
 - [note2.md](./note2.md) - Lesson 2 线性代数复习
-- [note3.md](./note3.md) - Lesson 3 变换（Transformation）
-- [note4.md](./note4.md) - Lesson 4 三维观察变换（3D Viewing Transformations）
+- [note3.md](./note3.md) - Lesson 3 变换
+- [note4.md](./note4.md) - Lesson 4 三维观察变换
+- [note5.md](./note5.md) - Lesson 5 光栅化（一）—— 三角形
 
 ## 使用说明
 
