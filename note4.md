@@ -1,4 +1,4 @@
-## __Lecture 04: 三维观测变换 \(3D Viewing Transformations\)__
+## __Lesson 4: 三维观测变换 \(3D Viewing Transformations\)__
 
 ### 1\.视图/相机变换 \(View/Camera Transformation\)
 
