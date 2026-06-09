@@ -9,6 +9,7 @@
 - [note3.md](./note3.md) - Lesson 3 变换
 - [note4.md](./note4.md) - Lesson 4 三维观察变换
 - [note5.md](./note5.md) - Lesson 5 光栅化（一）—— 三角形
+- [note6.md](./note6.md) - Lesson 6 光栅化（二）—— 反走样（抗锯齿）
 
 ## 使用说明
 
