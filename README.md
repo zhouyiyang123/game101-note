@@ -10,6 +10,8 @@
 - [note4.md](./note4.md) - Lesson 4 三维观察变换
 - [note5.md](./note5.md) - Lesson 5 光栅化（一）—— 三角形
 - [note6.md](./note6.md) - Lesson 6 光栅化（二）—— 反走样（抗锯齿）
+- [note7.md](./note7.md) - Lesson 7 光栅化（三）—— 可见性与深度缓冲（Z-Buffer）
+- [note8.md](./note8.md) - Lesson 6 着色（一）—— 经典 Blinn-Phong 反射模型
 
 ## 使用说明
 
