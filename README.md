@@ -14,6 +14,8 @@
 - [note8.md](./note8.md) - Lesson 8 着色（一）—— 经典 Blinn-Phong 反射模型
 - [note9.md](./note9.md) - Lesson 9 着色（二）—— 着色频率、图形管线与纹理映射
 - [note10.md](./note10.md) - Lesson 10 着色（三）—— 重心坐标与纹理滤波高级技术
+- [note11.md](./note11.md) - Lesson 11 着色（四）—— 纹理映射的进阶
+- [note12.md](./note12.md) - Lesson 12 几何（一）—— 几何表示法概论
 
 ## 使用说明
 
